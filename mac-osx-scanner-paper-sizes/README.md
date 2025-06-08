@@ -1,9 +1,9 @@
 
 # 📄 Paper Sizes in Inches
 
-![Mac OSX Scan dialog box](/Users/aman/src/handy-scripts/mac-osx-scanner-paper-sizes/scanner-dialog.png)
+![Mac OSX Scan dialog box](scanner-dialog.png)
 
-Mac OSX (Sequoia 15.5 as of writing) has a [list of names](https://github.com/Aman-Aalam/handy-scripts) of papers in the scanner pop-up box.
+Mac OSX (Sequoia 15.5 as of writing) has a [list of names](https://github.com/Aman-Aalam/handy-scripts/blob/main/mac-osx-scanner-paper-sizes/all-values.png) of papers in the scanner pop-up box.
 
 But only names, not sizes. How do you know what paper name to select when scanning?
 
@@ -108,4 +108,4 @@ Here's a list for quick reference:
 | Medium Format  | ≈2.36 × 2.36 (square)       |
 | Large Format   | common: 4×5, 5×7, 8×10 etc. |
 
-[Download PDF version here]()
+[Download PDF version here](https://github.com/Aman-Aalam/handy-scripts/blob/main/mac-osx-scanner-paper-sizes/mac-osx-scanner-paper-sizes.pdf)
